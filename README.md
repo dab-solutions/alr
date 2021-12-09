@@ -11,7 +11,7 @@ The script does:
 # Usage
 As simply as:
 ```
-$ git clone asdasdas
+$ git clone https://github.com/dab-solutions/alr.git
 $ cd alr
 ~/alr$ bash alr.sh dabtechsolutions davide-laptop
 ```
