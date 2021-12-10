@@ -5,7 +5,7 @@ The script does:
 - check if lynis is installed. If not, it will clone the repository
 - run lynis with a custom profile if provided
 - apply a group and a label to the report. This is useful if you want to group machines by organitations and labels
-- upload to the lynis web ui if `REMOTE_UPLAOD=1` (default `0`)
+- upload to the lynis web ui if `REMOTE_UPLOAD=1` (default `0`)
 
 
 # Usage
